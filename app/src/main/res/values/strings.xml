@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ActionModeMulti</string>
+    <string name="act_delete">Excluir</string>
+</resources>
